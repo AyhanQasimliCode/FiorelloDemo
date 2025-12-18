@@ -15,6 +15,11 @@ namespace Fiorello.Controllers
         }
         public async Task<IActionResult> Index()
         {
+            //HttpContext.Session.SetString("Name", "Mahmud");
+            //HttpContext.Response.Cookies.Append("surname", "Rehimli", new CookieOptions() { MaxAge = TimeSpan.FromMinutes(5)});
+            //ViewBag.Name = HttpContext.Session.GetString("Name");
+            //ViewBag.Surname = HttpContext.Request.Cookies["surname"];
+
             IEnumerable<Slider> sliders = await _context.Sliders.ToListAsync();
             SliderDetail sliderDetail = await _context.SlidersDetails.FirstOrDefaultAsync();
             var products = await _context.Products.Include(p => p.ProductImages).Take(4).ToListAsync();
@@ -34,6 +39,7 @@ namespace Fiorello.Controllers
             var products = await _context.Products.Include(p => p.ProductImages).Skip(skip).Take(4).ToListAsync();
             return PartialView("_ProductPartial", products);
         }
+      
 
     }
 }

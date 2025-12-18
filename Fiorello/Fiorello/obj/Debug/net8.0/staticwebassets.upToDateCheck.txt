@@ -175,6 +175,7 @@ wwwroot\img\shop-category-img-5.jpg
 wwwroot\img\shop-category-img-6.jpg
 wwwroot\img\testimonial-img-1.png
 wwwroot\img\testimonial-img-2.png
+wwwroot\js\JavaScript.js
 wwwroot\js\script.js
 wwwroot\owlcarousel\owl.carousel.min.css
 wwwroot\owlcarousel\owl.carousel.min.js
@@ -198,4 +199,3 @@ wwwroot\sass\sections\_slider.scss
 wwwroot\sass\sections\_subscribe.scss
 wwwroot\sass\sections\_tab.scss
 wwwroot\sass\style.scss
-wwwroot\js\JavaScript.js

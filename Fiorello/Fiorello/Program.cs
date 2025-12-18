@@ -2,7 +2,11 @@ using Fiorello.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
-
+builder.Services.AddSession(options =>
+{
+    options.IOTimeout = TimeSpan.FromSeconds(5);
+   
+});
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<AppDbContext>(options =>
@@ -18,6 +22,7 @@ if (!app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseSession();
 app.UseStaticFiles();
 
 app.UseRouting();
