@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|c:\\users\\darya\\desktop\\codeback\\fiorello\\fiorello\\views\\shared\\_productpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\views\\shared\\_productpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|c:\\users\\darya\\desktop\\codeback\\fiorello\\fiorello\\areas\\admin\\controllers\\sliderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\areas\\admin\\controllers\\sliderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|c:\\users\\darya\\desktop\\codeback\\fiorello\\fiorello\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|c:\\users\\darya\\desktop\\codeback\\fiorello\\fiorello\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|c:\\users\\darya\\desktop\\codeback\\fiorello\\fiorello\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|c:\\users\\darya\\desktop\\codeback\\fiorello\\fiorello\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|c:\\users\\darya\\desktop\\codeback\\fiorello\\fiorello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|c:\\users\\darya\\desktop\\codeback\\fiorello\\fiorello\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|c:\\users\\darya\\desktop\\codeback\\fiorello\\fiorello\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,28 +39,24 @@
       "RelativeMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\viewmodels\\basketvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|c:\\users\\darya\\desktop\\codeback\\fiorello\\fiorello\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|c:\\users\\darya\\desktop\\codeback\\fiorello\\fiorello\\views\\shared\\_productpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\views\\shared\\_productpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|c:\\users\\darya\\desktop\\codeback\\fiorello\\fiorello\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|c:\\users\\darya\\desktop\\codeback\\fiorello\\fiorello\\wwwroot\\js\\basket.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\wwwroot\\js\\basket.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|c:\\users\\darya\\desktop\\codeback\\fiorello\\fiorello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|c:\\users\\darya\\desktop\\codeback\\fiorello\\fiorello\\wwwroot\\js\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\wwwroot\\js\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|c:\\users\\darya\\desktop\\codeback\\fiorello\\fiorello\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|c:\\users\\darya\\desktop\\codeback\\fiorello\\fiorello\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|c:\\users\\darya\\desktop\\codeback\\fiorello\\fiorello\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|c:\\users\\darya\\desktop\\codeback\\fiorello\\fiorello\\areas\\admin\\controllers\\sliderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\areas\\admin\\controllers\\sliderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|c:\\users\\darya\\desktop\\codeback\\fiorello\\fiorello\\viewmodels\\basketdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D96826-DD03-4BCF-8F3A-EBB93712766E}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\viewmodels\\basketdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,20 +74,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
+              "Title": "BasketDetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\Fiorello\\ViewModels\\BasketDetailVM.cs",
+              "RelativeDocumentMoniker": "Fiorello\\ViewModels\\BasketDetailVM.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\Fiorello\\ViewModels\\BasketDetailVM.cs",
+              "RelativeToolTip": "Fiorello\\ViewModels\\BasketDetailVM.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:47:53.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\Fiorello\\Views\\Basket\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fiorello\\Views\\Basket\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\Fiorello\\Views\\Basket\\Index.cshtml",
+              "RelativeToolTip": "Fiorello\\Views\\Basket\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T18:47:49.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\Fiorello\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Fiorello\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\Fiorello\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Fiorello\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T18:42:31.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JavaScript.js",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\Fiorello\\wwwroot\\js\\JavaScript.js",
+              "RelativeDocumentMoniker": "Fiorello\\wwwroot\\js\\JavaScript.js",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\Fiorello\\wwwroot\\js\\JavaScript.js",
+              "RelativeToolTip": "Fiorello\\wwwroot\\js\\JavaScript.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-21T18:41:41.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Basket.js",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\Fiorello\\wwwroot\\js\\Basket.js",
+              "RelativeDocumentMoniker": "Fiorello\\wwwroot\\js\\Basket.js",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\Fiorello\\wwwroot\\js\\Basket.js",
+              "RelativeToolTip": "Fiorello\\wwwroot\\js\\Basket.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-21T18:40:26.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "_ProductPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\Fiorello\\Views\\Shared\\_ProductPartial.cshtml",
               "RelativeDocumentMoniker": "Fiorello\\Views\\Shared\\_ProductPartial.cshtml",
               "ToolTip": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\Fiorello\\Views\\Shared\\_ProductPartial.cshtml",
               "RelativeToolTip": "Fiorello\\Views\\Shared\\_ProductPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-18T17:20:12.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "BasketVM.cs",
               "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\Fiorello\\ViewModels\\BasketVM.cs",
               "RelativeDocumentMoniker": "Fiorello\\ViewModels\\BasketVM.cs",
@@ -80,26 +165,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "BasketController.cs",
               "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\Fiorello\\Controllers\\BasketController.cs",
               "RelativeDocumentMoniker": "Fiorello\\Controllers\\BasketController.cs",
               "ToolTip": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\Fiorello\\Controllers\\BasketController.cs",
               "RelativeToolTip": "Fiorello\\Controllers\\BasketController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAACbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T17:12:32.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\Fiorello\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Fiorello\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\Fiorello\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Fiorello\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEYBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-18T17:10:44.83Z",
               "EditorCaption": ""
@@ -112,7 +197,7 @@
               "RelativeDocumentMoniker": "Fiorello\\Program.cs",
               "ToolTip": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\Fiorello\\Program.cs",
               "RelativeToolTip": "Fiorello\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T16:53:32.068Z",
               "EditorCaption": ""
@@ -125,14 +210,14 @@
               "RelativeDocumentMoniker": "Fiorello\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\Fiorello\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Fiorello\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBQAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T16:52:27.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\Fiorello\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Fiorello\\Areas\\Admin\\Controllers\\DashboardController.cs",
@@ -145,26 +230,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "SliderController.cs",
               "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\Fiorello\\Areas\\Admin\\Controllers\\SliderController.cs",
               "RelativeDocumentMoniker": "Fiorello\\Areas\\Admin\\Controllers\\SliderController.cs",
               "ToolTip": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\Fiorello\\Areas\\Admin\\Controllers\\SliderController.cs",
               "RelativeToolTip": "Fiorello\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T16:52:18.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "SliderDetailController.cs",
               "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\Fiorello\\Areas\\Admin\\Controllers\\SliderDetailController.cs",
               "RelativeDocumentMoniker": "Fiorello\\Areas\\Admin\\Controllers\\SliderDetailController.cs",
               "ToolTip": "C:\\Users\\Darya\\Desktop\\CodeBack\\Fiorello\\Fiorello\\Areas\\Admin\\Controllers\\SliderDetailController.cs",
               "RelativeToolTip": "Fiorello\\Areas\\Admin\\Controllers\\SliderDetailController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T16:52:17.759Z",
               "EditorCaption": ""

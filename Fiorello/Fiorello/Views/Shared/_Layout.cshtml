@@ -113,10 +113,10 @@
 
                                     </ul>
                                 </li>
-                                <li class="nav-item my-auto shop-cart">
+                               <li class="nav-item my-auto shop-cart">
                                     <i class="fas fa-shopping-bag"></i>
                                     <sup class="rounded-circle">0</sup>
-                                    <span>CART ($0)</span>
+                                    <span><a asp-controller="Basket" asp-action="Index">CART ($0)</a></span>
                                     <ul class="list-unstyled py-3">
                                         <li class="">No products in the cart.</li>
                                     </ul>
@@ -349,6 +349,8 @@
     <script src="~/owlcarousel/owl.carousel.min.js"></script>
     <script src="~/js/script.js"></script>
     <script src="~/js/JavaScript.js"></script>
+    <script src="~/js/basket.js"></script>
+
 </body>
 
 </html>

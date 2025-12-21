@@ -1,5 +1,6 @@
 ﻿@using Fiorello.ViewModels
 @model List<Fiorello.Models.Product>
+
 @foreach (var item in Model)
 {
     <div class="col-sm-6 col-md-4 col-lg-3 mt-3 product">
@@ -13,7 +14,7 @@
                 <h6>@item.Name</h6>
             </div>
             <div class="price">
-                <a class="text-black-50" asp-controller="Basket" asp-action="Add" asp-route-id="@item.Id" >Add to cart</a>
+                <button class="add-to-basket" data-id="@item.Id">Add to cart</button>
                 <span class="text-black-50">@item.Price</span>
             </div>
         </div>
