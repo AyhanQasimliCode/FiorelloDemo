@@ -1,4 +1,6 @@
-﻿namespace Fiorello.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Fiorello.Models
 {
     public class Category : BaseEntity
     {
