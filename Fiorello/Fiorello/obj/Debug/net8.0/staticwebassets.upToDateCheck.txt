@@ -134,6 +134,7 @@ wwwroot\admin\vendors\mdi\fonts\materialdesignicons-webfont.woff
 wwwroot\admin\vendors\mdi\fonts\materialdesignicons-webfont.woff2
 wwwroot\css\style.css
 wwwroot\css\style.css.map
+wwwroot\img\74de68b8-74ed-47a9-accf-d36f2d2e9bf7_Screenshot 2024-09-06 151311.png
 wwwroot\img\blog-feature-img-1.jpg
 wwwroot\img\blog-feature-img-3.jpg
 wwwroot\img\blog-feature-img-4.jpg

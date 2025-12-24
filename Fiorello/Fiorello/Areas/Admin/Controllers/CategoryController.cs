@@ -21,6 +21,7 @@ namespace Fiorello.Areas.Admin.Controllers
             IEnumerable<Category> categories = await _context.Categories.ToListAsync();
             IEnumerable<GetAllCategoryVM> getAllCategoryVMs = categories.Select(c => new GetAllCategoryVM()
             {
+                Id = c.Id,
                 Name = c.Name
             });
 
@@ -64,6 +65,78 @@ namespace Fiorello.Areas.Admin.Controllers
 
             return RedirectToAction(nameof(Index));
         }
+        [HttpGet]
+        public async Task<IActionResult> Detail(int id)
+        {
+            Category category = await _context.Categories
+                .FirstOrDefaultAsync(c => c.Id == id);
 
+            if (category == null)
+                return NotFound();
+
+            DetailCategoryVM detailCategoryVM = new()
+            {
+                Id = category.Id,
+                Name = category.Name
+            };
+
+            return View(detailCategoryVM);
+        }
+        [HttpGet]
+        public async Task<IActionResult> Update(int id)
+        {
+            Category category = await _context.Categories
+                .FirstOrDefaultAsync(c => c.Id == id);
+
+            if (category == null)
+                return NotFound();
+
+            UpdateCategoryVM updateCategoryVM = new()
+            {
+                Id = category.Id,
+                Name = category.Name
+            };
+
+            return View(updateCategoryVM);
+        }
+        [HttpPost]
+        public async Task<IActionResult> Update(int id, UpdateCategoryVM request)
+        {
+            if (!ModelState.IsValid)
+                return View(request);
+
+            Category category = await _context.Categories
+                .FirstOrDefaultAsync(c => c.Id == id);
+
+            if (category == null)
+                return NotFound();
+
+            bool isExist = await _context.Categories.AnyAsync(c =>
+                c.Name.Trim().ToLower() == request.Name.Trim().ToLower()
+                && c.Id != id);
+
+            if (isExist)
+            {
+                ModelState.AddModelError("Name", "Bu adda movcuddur!");
+                return View(request);
+            }
+
+            category.Name = request.Name.Trim();
+
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(Index));
+        }
+        [HttpPost]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var category = await _context.Categories.FirstOrDefaultAsync(c => c.Id == id);
+            if (category == null) return NotFound();
+
+            _context.Categories.Remove(category);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(Index));
+        }
     }
 }
