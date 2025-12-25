@@ -6,6 +6,6 @@ namespace Fiorello.Areas.Admin.ViewModels.SliderVM
     {
         [Required(ErrorMessage = "Bos ola bilmez")]
 
-        public IFormFile Photo { get; set; }
+        public List<IFormFile> Photos { get; set; }
     }
 }
