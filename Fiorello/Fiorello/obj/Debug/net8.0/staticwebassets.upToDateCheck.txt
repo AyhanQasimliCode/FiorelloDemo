@@ -144,7 +144,6 @@ wwwroot\img\h2-sign-img.png
 wwwroot\img\h3-background-img.jpg
 wwwroot\img\h3-slider-background-2.jpg
 wwwroot\img\h3-slider-background-3.jpg
-wwwroot\img\h3-slider-background.jpg
 wwwroot\img\h3-team-img-1.png
 wwwroot\img\h3-team-img-2.png
 wwwroot\img\h3-team-img-3.png
