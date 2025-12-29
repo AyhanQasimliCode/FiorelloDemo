@@ -279,3 +279,4 @@ C:\Users\Darya\Desktop\CodeForFuture\Fiorello\Fiorello\obj\Debug\net8.0\Fiorello
 C:\Users\Darya\Desktop\CodeForFuture\Fiorello\Fiorello\obj\Debug\net8.0\Fiorello.genruntimeconfig.cache
 C:\Users\Darya\Desktop\CodeForFuture\Fiorello\Fiorello\obj\Debug\net8.0\ref\Fiorello.dll
 C:\Users\Darya\Desktop\CodeBack\Fiorello\Fiorello\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Darya\Desktop\CodeBack\Fiorello\Fiorello\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
